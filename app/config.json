@@ -1,0 +1,10 @@
+{
+  "serviceName": "Contribution right of access requests",
+  "useServiceNavigation": true,
+  "plugins": {
+    "govuk-frontend": {
+      "rebrand": false
+    }
+  }
+}
+  
