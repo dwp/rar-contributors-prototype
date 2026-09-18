@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: rar-contributors-design-prototype
-  title: RAR-Contributors-Design-Prototype
+  name: rar-contributors-prototype
+  title: RAR-Contributors-Prototype
   description: |
     End-to-end process for PIP agents to contribute to a Right of Access Request
 
   annotations:
-    dwp.gitlab-dedicated.com/project-slug: dwp/user-centred-design/rar-contributors-design-prototype
+    dwp.gitlab-dedicated.com/project-slug: dwp/user-centred-design/rar-contributors-prototype
 
   labels:
     dwp.gov.uk/version: 1.0.0
@@ -31,7 +31,7 @@ metadata:
   links:
     - icon: externalLink
       title: Repository
-      url: https://dwp.gitlab-dedicated.com/dwp/user-centred-design/rar-contributors-design-prototype
+      url: https://dwp.gitlab-dedicated.com/dwp/user-centred-design/rar-contributors-prototype
 
 spec:
   owner: group:default/backstage.group.user-centred-design
